@@ -1,41 +1,18 @@
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual Environment
 myenv/
 venv/
-env/
 .venv/
 
-.env
-.env.*
+__pycache__/
+*.py[cod]
 
-*.db
 instance/
-
-.flaskenv
+*.db
 
 .vscode/
 
 .idea/
 
+.env
+
 .DS_Store
-
 Thumbs.db
-Desktop.ini
-
-build/
-dist/
-*.egg-info/
-
-*.log
-
-.pytest_cache/
-.mypy_cache/
-.cache/
-
-.ipynb_checkpoints/
-
-.coverage
-htmlcov/
